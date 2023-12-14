@@ -1,5 +1,8 @@
 # Compound Interest Calculator
 
+<img width="1440" alt="Screenshot 2023-12-14 at 12 40 58 PM" src="https://github.com/Ch-Usman-266/interest-calculator-challenge/assets/72358488/57a2ef19-3133-44b1-af7e-5be824a0619a">
+
+
 ## Overview
 
 This is a React application that provides a Direct Deposit Enrollment form and a Compound Interest Calculator. Users can fill out the deposit enrollment form with their account details, and the app calculates the compound interest based on the entered information.
@@ -8,8 +11,8 @@ This is a React application that provides a Direct Deposit Enrollment form and a
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone `
-2. Navigate to the project directory: `cd interest-calculator-app`
+1. Clone the repository: `git clone https://github.com/Ch-Usman-266/interest-calculator-challenge/edit/main/README.md`
+2. Navigate to the project directory: `cd interest-calculator-challenge`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the app.
